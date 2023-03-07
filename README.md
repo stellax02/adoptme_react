@@ -1,4 +1,7 @@
-# adoptme_react
 
-Adopt animal - React project
+# Adopt animal - React project
+
+- project using Vite
+- npm install
+- npm run dev
 
